@@ -1,7 +1,9 @@
 
-Ele
+test
 
 
-![The San Juan Mountains are beautiful!](/one.jpeg "San Juan Mountains")
-
-
+<figure>
+    <img src="/one.jpeg"
+         alt="">
+    <figcaption>Run wire along red arrow, add new outlet on other side of wall.</figcaption>
+</figure>
