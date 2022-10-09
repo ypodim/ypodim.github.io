@@ -6,13 +6,17 @@ Looking for a quote for the following three tasks:
          alt="">
     <figcaption>Run wire along red arrow, add new outlet on other side of wall.</figcaption>
 </figure>
-***
+
+---
+
 <figure>
     <img src="/two.jpeg"
          alt="">
     <figcaption>Run wire along red arrow, add new outlet at end of arrow (garage).</figcaption>
 </figure>
-***
+
+---
+
 <figure>
     <img src="/three.jpeg"
          alt="">
